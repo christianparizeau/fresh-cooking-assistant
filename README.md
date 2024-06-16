@@ -12,10 +12,6 @@ An application for cooks who want to elevate their cooking with fresh seasonal i
 - CSS3
 - AWS EC2
 
-## Live Site
-
-Try the application live at [fresh.vg](https://fresh.vg)
-
 ## Features
 
 - Users can view a list of seasonal produce
